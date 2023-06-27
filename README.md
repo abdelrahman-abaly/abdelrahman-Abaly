@@ -1,13 +1,27 @@
-
 <p align="center">
-  <img src="el abaly.gif" alt="Hi, I'm abdelrahman 👋 I'm a 🚀full stack web developer 🚀 ">
+  <img src="el 3abaly1.gif" alt="Hi, I'm abdelrahman 👋 I'm a 🚀full stack web developer 🚀 ">
 </p>
-<!--
-**abdelrahman-el3abaly/abdelrahman-el3abaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+
+
+### About Me
+- 🎓 I'm a Computer Science Student.
+- ⭐ web developer specializing in back-end development.  
+- ⚡with Strong background about projects life cycle.
+- ⭐ Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
+- ⚡ Specialists in ASP.NET Core, C#, and Microsoft SQL Server technologies
+
+
+### Connect with Me :
+-  <a href="www.linkedin.com/in/abdelrhaman-el-abaly-228699280" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20El%20Abaly-0077B5?style=for-the- badge&logo=Linkedin&logoColor=white"/></a>
+- <a href="https://web.telegram.org/a/" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20El%20Abaly-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+- <a href="https://twitter.com/abdelra7man44" target="_blank"><img src="https://img.shields.io/badge/-Abdelrahman%20El%20Abaly-0077B5?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+
+
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -23,9 +37,15 @@
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-Here are some ideas to get you started:
+![.NET](https://img.shields.io/badge/-.NET%20-05122A?style=flat&logo=.NET)&nbsp;
+![C sharp](https://img.shields.io/badge/-Csharp%20-05122A?style=flat&logo=Csharp)&nbsp;
+![LINQ](https://img.shields.io/badge/-LINQ%20-05122A?style=flat&logo=LINQ)&nbsp;
+![ASP.NETWeb API](https://img.shields.io/badge/-ASP.NETWebAPI%20-05122A?style=flat&logo=ASP.NETWebAPI)&nbsp;
+![My SQL](https://img.shields.io/badge/-MySQL]%20-05122A?style=flat&logo=MySQL)&nbsp;
 
 
+
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
