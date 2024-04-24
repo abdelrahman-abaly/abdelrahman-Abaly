@@ -37,10 +37,10 @@
 <!--![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;-->
-![.NET](https://img.shields.io/badge/-.NET%20-05122A?style=flat&logo=.NET)&nbsp;
-![C sharp](https://img.shields.io/badge/-Csharp%20-05122A?style=flat&logo=Csharp)&nbsp;
-![LINQ](https://img.shields.io/badge/-LINQ%20-05122A?style=flat&logo=LINQ)&nbsp;
-![ASP.NETWeb API](https://img.shields.io/badge/-ASP.NETWebAPI%20-05122A?style=flat&logo=ASP.NETWebAPI)&nbsp;
+![Php](https://img.shields.io/badge/-.NET%20-05122A?style=flat&logo=Php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Csharp%20-05122A?style=flat&logo=laravel)&nbsp;
+<!--![LINQ](https://img.shields.io/badge/-LINQ%20-05122A?style=flat&logo=LINQ)&nbsp;
+![ASP.NETWeb API](https://img.shields.io/badge/-ASP.NETWebAPI%20-05122A?style=flat&logo=ASP.NETWebAPI)&nbsp;-->
 ![My SQL](https://img.shields.io/badge/-MySQL]%20-05122A?style=flat&logo=MySQL)&nbsp;
 
 
