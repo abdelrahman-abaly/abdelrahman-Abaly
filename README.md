@@ -41,7 +41,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 <!--![LINQ](https://img.shields.io/badge/-LINQ%20-05122A?style=flat&logo=LINQ)&nbsp;
 ![ASP.NETWeb API](https://img.shields.io/badge/-ASP.NETWebAPI%20-05122A?style=flat&logo=ASP.NETWebAPI)&nbsp;-->
-![My SQL](https://img.shields.io/badge/-MySQL]%20-05122A?style=flat&logo=MySQL)&nbsp;
+![My SQL](https://img.shields.io/badge/-MySQL%20-05122A?style=flat&logo=MySQL)&nbsp;
 
 
 
