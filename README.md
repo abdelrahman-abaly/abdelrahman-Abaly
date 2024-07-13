@@ -13,7 +13,7 @@
 - ⭐ web developer specializing in back-end development.  
 - ⚡with Strong background about projects life cycle.
 - ⭐ Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
-- ⚡ Specialists in ASP.NET Core, C#, and Microsoft SQL Server technologies
+- ⚡ Specialists in Laravel, php, and MYSQL Server technologies
 
 
 ### Connect with Me :
