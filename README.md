@@ -9,7 +9,7 @@
 
 
 ### About Me
-- 🎓 I'm a Computer Science Student.
+- 🎓 I'm graduated from Luxor University, Computer science major.
 - ⭐ web developer specializing in back-end development.  
 - ⚡with Strong background about projects life cycle.
 - ⭐ Able to effectively self-manage during independent projects, as well as collaborate in a team setting.
